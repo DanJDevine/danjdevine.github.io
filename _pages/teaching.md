@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I hold a postgraduate certificate (PGCert) in [Teaching and Learning in Higher Education from the University of Oxford](https://www.ctl.ox.ac.uk) and am a Fellow of the [Higher Education Academy](http://www.heacademy.ac.uk). 
 
-Organize your courses by years, topics, or universities, however you like!
+I currently teach three courses: `Introduction to Politics`, `Political Sociology`, and `Modern British Politics`. 

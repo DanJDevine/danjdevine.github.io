@@ -22,4 +22,4 @@ I'm a Fellow* in Politics at [St Hilda's College](https://www.st-hildas.ox.ac.uk
 
 I'm interesting in a wide range of questions in the fields of `comparative politics`, `public opinion`, and `political behaviour`. I'm primarily interested in public legitimacy attitudes. How do citizens relate to their state, and its core actors and institutions? Citizens' legitimacy attitudes are a fundamental part of this question. Do they support the principles of the regime, such as democracy? Are they satisfied with how it functions? Do they trust its institutions and actors? These all influence how governments can and should deal with the world's most complex and pressing problems, and the institutions through which they do so. 
 
-* In practice, this is a bit like a non-tenured assistant professor.
+<span>&#65121;</span> In practice, this is a bit like a non-tenured assistant professor.
