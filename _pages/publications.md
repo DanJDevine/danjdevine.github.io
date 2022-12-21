@@ -5,7 +5,7 @@ title: publications
 description: These are all published work. For unpublished work, see the works in progress tab. 
 years: [2022, 2021, 2020, 2019, 2017]
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 <!-- _pages/publications.md -->
 <div class="publications">

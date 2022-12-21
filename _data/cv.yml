@@ -1,19 +1,10 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Southampton, UK
+      year: 2020
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +12,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Msc in Governance
+      institution: University of Southampton, UK
+      year: 2016
+      description:
+        - Description 1.
+        - Description 2.
+    - title: BA in Politics
+      institution: University of Essex, UK
+      year: 2014
       description:
         - Description 1.
         - Description 2.
@@ -31,8 +28,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
+    - title: Fellow in Politics
+      institution: St Hilda's College, University of Oxford 
       year: 1933 - 1955
       description:
         - Description 1.
