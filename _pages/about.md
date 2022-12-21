@@ -2,26 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> /p>
+    <p></p>
+    <p></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Test test test
+I'm a Fellow* in Politics at [St Hilda's College](https://www.st-hildas.ox.ac.uk), University of Oxford. I'm also an associate at [Nuffield College](https://www.nuffield.ox.ac.uk) and the [Department for Politics and International Relations](https://www.politics.ox.ac.uk).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm interesting in a wide range of questions in the fields of `comparative politics`, `public opinion`, and `political behaviour`. I'm primarily interested in public legitimacy attitudes. How do citizens relate to their state, and its core actors and institutions? Citizens' legitimacy attitudes are a fundamental part of this question. Do they support the principles of the regime, such as democracy? Are they satisfied with how it functions? Do they trust its institutions and actors? These all influence how governments can and should deal with the world's most complex and pressing problems, and the institutions through which they do so. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* In practice, this is a bit like a non-tenured assistant professor.
