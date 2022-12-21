@@ -3,7 +3,7 @@ layout: page
 permalink: /works in progress/
 title: works in progress
 description: for resubmitted, under contract, or ongoing projects
-years: [ongoing, 2022]
+years: [2022, ongoing ]
 nav: true
 order: 3
 ---
