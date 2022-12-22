@@ -7,10 +7,10 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
-    <p> </p>
-    <p> </p>
+    <p> The image is from the docks in Southampton </p>
+    <p> at the height of lockdown 2020 </p>
     <p> </p>
 
 news: false  # includes a list of news items
