@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /works in progress/
+permalink: /progress/
 title: works in progress
-description: these are ongoing or un
+description: these are ongoing or under review
 years: [2023, 2022]
 nav: false
 order: 3
