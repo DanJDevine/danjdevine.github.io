@@ -2,9 +2,9 @@
 layout: page
 permalink: /works in progress/
 title: works in progress
-description: for resubmitted, under contract, or ongoing projects
-years: [2022, ongoing ]
-nav: true
+description: these are ongoing or un
+years: [2023, 2022]
+nav: false
 order: 3
 ---
 

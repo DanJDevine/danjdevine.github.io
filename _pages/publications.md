@@ -4,7 +4,7 @@ permalink: /publications/
 title: academic publications
 description: These are all published work. For unpublished work, see the works in progress tab. 
 years: [2022, 2021, 2020, 2019, 2017]
-nav: true
+nav: false
 nav_order: 2
 ---
 <!-- _pages/publications.md -->
