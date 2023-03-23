@@ -6,6 +6,9 @@ description: a selection of public blogs, talks, etc
 nav: true
 nav_order: 5
 ---
+**2023**
+
+[How much do events affect trust in politics?](https://ukandeu.ac.uk/how-much-do-events-affect-trust-in-politics/), *UK in a Changing Europe*
 
 **2022**
 
