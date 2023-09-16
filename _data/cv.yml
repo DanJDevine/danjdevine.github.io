@@ -1,9 +1,12 @@
 - title: Employment
   type: time_table
   contents:
+   - title: Lecturer (Assistant Professor)
+      institution: University of Southampton
+      year: 2023 --
     - title: Fellow in Politics
       institution: St Hilda's College, University of Oxford 
-      year: 2020 --
+      year: 2020-2023
     - title: Postdoc
       institution: University of Southampton
       year: 2019-2020

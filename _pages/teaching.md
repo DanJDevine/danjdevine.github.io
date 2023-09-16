@@ -9,7 +9,9 @@ nav_order: 4
 
 I hold a postgraduate certificate (PGCert) in [Teaching and Learning in Higher Education from the University of Oxford](https://www.ctl.ox.ac.uk) and am a Fellow of the [Higher Education Academy](http://www.heacademy.ac.uk). 
 
-In 2023-2024, I am convening a Masters-level module in `Research Design`, an Undergraduate-level course on `British Politics`, and lecturing on a cross-faculty `Research Methods`. 
+In 2023-2024, I am convening a Masters-level module in `Research Design`, an Undergraduate-level course on `British Politics`, and lecturing on a cross-faculty Undergraduate course on `Research Methods`. 
+
+I also still teach Political Sociology on a freelance basis to visiting students at the University of Oxford.
 
 **Past courses**
 
