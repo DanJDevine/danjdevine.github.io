@@ -8,6 +8,8 @@ nav_order: 5
 ---
 **2023**
 
+[Suella Braverman: how much of a threat is sacked home secretary from the backbenches? What the polling tells us](https://theconversation.com/suella-braverman-how-much-of-a-threat-is-sacked-home-secretary-from-the-backbenches-what-the-polling-tells-us-217624), *The Conversation*
+
 [How much do events affect trust in politics?](https://ukandeu.ac.uk/how-much-do-events-affect-trust-in-politics/), *UK in a Changing Europe*
 
 **2022**

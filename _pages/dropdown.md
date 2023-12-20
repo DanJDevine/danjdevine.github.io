@@ -2,7 +2,7 @@
 layout: page
 title: publications
 nav: true
-nav_order: 1
+nav_order: 3
 dropdown: true
 children: 
     - title: academic
@@ -10,8 +10,5 @@ children:
     - title: divider
     - title: policy
       permalink: /policy/
-    - title: divider
-    - title: works in progress
-      permalink: /progress/  
 ---
 
