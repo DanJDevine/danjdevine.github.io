@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-My work is broadly on what people think of politics, political institutions, and why this matters, in the fields of public opinion, behaviour, and political sociology. I have a variety of active research interests in these areas. I primarily use quantitative methods (surveys, survey experiments, text analysis) but also have qualitative work (interviews, focus groups).
+My work is broadly on what people think of political institutions and why this matters, in the fields of public opinion, behaviour, and political sociology. I have a variety of active research interests in these areas. I primarily use quantitative methods (surveys, survey experiments, text analysis) but also have qualitative work (interviews, focus groups).
 
 **The causes and consequences of political trust**
 
