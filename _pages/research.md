@@ -23,7 +23,7 @@ The working class are under-represented in every democratic legislature in the w
 
 **Attitudes and attitude formation**
 
-How do people develop political attitudes? My work on trust taps into this question, but I am also working on environmental and climate attitudes (with [Federica Genovese](https://www.federica-genovese.com) and [Alexander Kustov](https://alexanderkustov.org)), the content of national identity (with [Jessica Smith](https://drjessicacsmith.wordpress.com)), the centrality of imperial nostalgia for UK public opinion (with [Christopher Claassen](http://chrisclaassen.com)), and the role of education in liberal-authoritarian attitudes (with [Lizzie Simon](https://www.qmul.ac.uk/politics/staff/profiles/simonelizabeth.html) and [Jamie Furlong](https://www.westminster.ac.uk/about-us/our-people/directory/furlong-jamie)).
+How do people develop political attitudes? My work on trust taps into this question, but I am also working on environmental and climate attitudes (with [Federica Genovese](https://www.federica-genovese.com) and [Alexander Kustov](https://alexanderkustov.org)), the centrality of imperial nostalgia for UK public opinion (with [Christopher Claassen](http://chrisclaassen.com)), and the role of education in liberal-authoritarian attitudes (with [Lizzie Simon](https://www.qmul.ac.uk/politics/staff/profiles/simonelizabeth.html) and [Jamie Furlong](https://www.westminster.ac.uk/about-us/our-people/directory/furlong-jamie)).
 
 **Previous work on globalisation and European integration**
 
