@@ -6,6 +6,14 @@ description: a selection of public blogs, talks, etc
 nav: true
 nav_order: 5
 ---
+**2024**
+
+[British public more fatalistic about home ownership than climate change – new survey](https://theconversation.com/british-public-more-fatalistic-about-home-ownership-than-climate-change-new-survey-232674), *The Conversation*
+
+[America’s trust in its institutions has collapsed: What are the consequences?](https://www.economist.com/united-states/2024/04/17/americas-trust-in-its-institutions-has-collapsed?giftId=77fb9b30-a053-4749-b175-141b12e38513), *The Economist*
+
+[Ministers reflect in Universities](https://www.instituteforgovernment.org.uk/feature/ministers-reflect-universities), *Institute for Government*
+
 **2023**
 
 [Suella Braverman: how much of a threat is sacked home secretary from the backbenches? What the polling tells us](https://theconversation.com/suella-braverman-how-much-of-a-threat-is-sacked-home-secretary-from-the-backbenches-what-the-polling-tells-us-217624), *The Conversation*
