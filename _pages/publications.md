@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: academic publications
-description: These are all published work. For unpublished work, see the works in progress tab. 
+description: These are all published work. 
 years: [2024, 2023, 2022, 2021, 2020, 2019]
 nav: false
 nav_order: 3
