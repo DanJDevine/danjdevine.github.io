@@ -9,7 +9,7 @@ nav_order: 4
 
 I hold a postgraduate certificate (PGCert) in [Teaching and Learning in Higher Education from the University of Oxford](https://www.ctl.ox.ac.uk) and am a Fellow of the [Higher Education Academy](http://www.heacademy.ac.uk). 
 
-At Southampton, I teach and convene undergraduate modules on `British Politics` and `Elections, Public Opinion, and Parties` (both with [Rob Johns](https://www.southampton.ac.uk/people/65brpg/professor-robert-johns)) and lecture on a cross-faculty Undergraduate course on `Research Methods`. 
+At Southampton, I teach and convene undergraduate modules on `British Politics`, `Elections, Public Opinion, and Parties` (both with [Rob Johns](https://www.southampton.ac.uk/people/65brpg/professor-robert-johns)), the `Undergraduate Dissertation` module, and lecture on a cross-faculty Undergraduate course on `Research Methods`. 
 
 **Past courses**
 
