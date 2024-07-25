@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm employed as a Lecturer (Assistant Professor) in Politics at the [Department of Politics and International Relations](https://www.southampton.ac.uk/politics) at the University of Southampton. I'm also an Associate at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford. I was previously a Career Development Fellow* in Politics at [St Hilda's College](https://www.st-hildas.ox.ac.uk), University of Oxford (2020-2023).
+I'm employed as an Associate Professor in Political Science at the [Department of Politics and International Relations](https://www.southampton.ac.uk/politics) at the University of Southampton. I'm also an Associate at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford. I was previously a Career Development Fellow* in Politics at [St Hilda's College](https://www.st-hildas.ox.ac.uk), University of Oxford (2020-2023), and Lecturer at the University of Southampton (2023-2024).
 
 I'm interested in a wide range of questions in the fields of `political sociology`, `public opinion`, and `political behaviour` in a comparative perspective, particularly around how citizens relate to their state and issues of representation (specifically class). Some of the broad topics I'm currently working on are under the 'research' tab.
 
